@@ -1,0 +1,74 @@
+.body{
+  background: #86E93ED3;
+  height: 550px;
+  width: 320px;
+  font-weight: bold;
+  font-family: Times New Roman;
+  border-radius: 20px;
+  border: solid 2px #292524;
+}
+input{
+  width: 250px;
+  height: 50px;
+  background: #32E22C;
+  border: solid 1px #EA580C;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  position: relative;
+  left: 30px;
+  text-align: center;
+  font-family: Times New Roman;
+  font-weight: bold;
+  color: black;
+}
+button:hover{
+  border: solid 1px black;
+  border-radius: 15px;
+  transition: 0.2s;
+}
+button{
+  width: 100px;
+  height: 70px;
+  border: solid 1px #1E1B4B;
+  border-radius: 10px;
+  font-family: Monospace;
+  color: white;
+  background: #0d9;
+  position: relative;
+  cursor: pointer;
+  left: 100px;
+}
+button:active{
+  border: solid 1px red;
+  border-radius: 20px;
+  transition: 0.2s;
+}
+p{
+  position: relative;
+  left: 60px;
+  top: 60px;
+}
+.rst{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  bottom: 35px;
+  left: 6px;
+  border-radius: 15px 10px 10px 10px;
+  background: #FACC15;
+  color: white;
+}
+.rst:hover{
+  border-radius: 20px 10px 10px 10px;
+  border: solid 1px white;
+}
+.rst:active{
+  border-radius: 20px 15px 15px 15px;
+  border: solid 1px green;
+}
+body{
+  background: #86EFAC;
+}
+#result{
+  font-family: Comic Sans MS;
+}
