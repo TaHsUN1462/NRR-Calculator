@@ -81,3 +81,9 @@ body{
   background: #DC2626;
   color: white;
 }
+.home:hover{
+  border-radius: 12px;
+}
+.home:active{
+  border-radius: 15px;
+}
