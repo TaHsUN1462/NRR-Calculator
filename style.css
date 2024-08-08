@@ -72,3 +72,12 @@ body{
 #result{
   font-family: Comic Sans MS;
 }
+.home{
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 0px;
+  margin-bottom: 10px;
+  background: #DC2626;
+  color: white;
+}
